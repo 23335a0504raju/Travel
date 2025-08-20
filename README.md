@@ -1,7 +1,7 @@
 # 🌍 Digital Travelling Partner  
 
 [![License](https://img.shields.io/badge/License-MIT-blue.svg?style=for-the-badge)](LICENSE)  
-[![Live Link](https://travelpool.infinityfreeapp.com/)](Link)
+[![Live Demo](https://img.shields.io/badge/Live%20Demo-Online-brightgreen?style=for-the-badge)](https://travelpool.infinityfreeapp.com/)  
 🚀 **Digital Travelling Partner** is a web-based platform designed to enhance the travel experience through **personalized recommendations, seamless bookings, and social engagement**.  
 It allows users to book hotels, transport, restaurants, malls, and theatres in one place, while connecting with other travellers.  
 
